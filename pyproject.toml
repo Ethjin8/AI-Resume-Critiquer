@@ -1,0 +1,14 @@
+[project]
+name = "ai-resume-critiquer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-openai>=0.3.31",
+    "langgraph>=0.6.6",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.48.1",
+]
