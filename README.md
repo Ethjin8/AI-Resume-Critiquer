@@ -12,3 +12,11 @@ This web application leverages Meta's open-source LLM, Llama, to provide constru
    Open a terminal in the project directory and run:  
    ```bash
    pip install streamlit
+    ```
+
+## Running the App
+Once all the dependencies are installed and Ollama has been successfully configured, type
+``` bash
+streamlit run main.py
+```
+in your terminal and hit Enter. The app should open automatically in your browser, ready for use. 
