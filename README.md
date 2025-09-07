@@ -13,6 +13,8 @@ This web application leverages Meta's open-source LLM, Llama, to provide constru
    ```bash
    pip install streamlit
     ```
+3. **Install Ollama**
+   Install your prefered Ollama model  [here](https://ollama.com/) (recommended Llama 3.2-3B)
 
 ## Running the App
 Once all the dependencies are installed and Ollama has been successfully configured, type
