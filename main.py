@@ -91,8 +91,7 @@ Focus on:
 1) Content clarity and impact
 2) Skills presentation and relevance
 3) Experience descriptions and achievements (quantify where possible)
-4) Formatting and structure
-5) Specific improvements for {role if role else "a general job application"}
+4) Specific improvements for {role if role else "a general job application"}
 
 {detail}
 
